@@ -1,0 +1,23 @@
+Exercice 5 
+1. Que signifie position:absolute ?
+position: absolute : Permet de positionner un élément par rapport à son conteneur le plus proche ayant une position relative. L'élément est déplacé par rapport à ce conteneur.
+
+3. Que signifie em ?
+Que signifie font-weight ?
+em : Unité relative à la taille de la police de l'élément parent.
+font-weight : Propriété pour définir l'épaisseur du texte. Les valeurs peuvent être normal, bold, ou des nombres comme 100, 200, etc.
+
+
+Exercice 6 : 
+1. Que signifie line-height ?
+La propriété line-height définit l'espacement vertical entre les lignes de texte dans un élément. Plus sa valeur est grande, plus l'espacement entre les lignes sera grand.
+
+Exercice 7 : liens vers les autres pages
+nav a
+{
+display:block;
+text-decoration:none;
+}
+2. Que signifient les propriétés précédentes ?
+display: block; : Cela transforme l'élément en un élément de type bloc, ce qui signifie qu'il prendra toute la largeur disponible et qu'il commencera sur une nouvelle ligne.
+text-decoration: none; : Cela supprime toute décoration de texte, comme les soulignements sur un lien (<a>).
